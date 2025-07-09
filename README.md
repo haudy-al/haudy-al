@@ -7,14 +7,26 @@
 
 I'm a passionate and curious learner from Indonesia, currently a high school student at **SMK ADI SANGGORO**, majoring in **Software Engineering (Rekayasa Perangkat Lunak)**. I have a deep interest in software development, Japanese language, and technology. I love building interactive web applications, exploring backend APIs, and experimenting with AI integrations.
 
-
 ---
-
 ## 💻 Tech Stack & Interests
 
-- ⚙️ **Languages**: JavaScript, TypeScript, PHP, Python, java
-- ⚒️ **Frameworks**: React (Ionic React), Laravel 11, Express.js, Vite
-- 📦 **Tools**: Git, Linux (Ubuntu), GCC 11.4.0, CLI-based Android emulator
+- ⚙️ **Languages**:  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
+
+- ⚒️ **Frameworks & Libraries**:  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="30" height="30"/>
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" height="30"/>
+
+- 📦 **Tools**: Git, Linux (Ubuntu), GCC 11.4.0, CLI-based Android emulator  
 - 🌐 **Projects**:
   - Web games inspired by *Gates of Olympus*
   - Gacha spin mechanics with persistent storage (local JSON)
@@ -23,6 +35,7 @@ I'm a passionate and curious learner from Indonesia, currently a high school stu
 - 🎮 **Game Dev**: Interested in interactive web-based games with real-time interactions
 
 ---
+
 
 ## 🧠 Learning & Exploration
 
