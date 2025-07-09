@@ -1,3 +1,8 @@
+| ![](https://github.com/user-attachments/assets/21fb2341-330b-4cc4-ad6a-454c65fd82d6) | ![](https://github.com/user-attachments/assets/e104b512-1a01-4e3d-a681-b3e1a31493a1) |
+|:--:|:--:|
+
+
+
 # 👋 Hi, I'm RM Haudy Al Kautsar!
 
 I'm a passionate and curious learner from Indonesia, currently a high school student at **SMK ADI SANGGORO**, majoring in **Software Engineering (Rekayasa Perangkat Lunak)**. I have a deep interest in software development, Japanese language, and technology. I love building interactive web applications, exploring backend APIs, and experimenting with AI integrations.
